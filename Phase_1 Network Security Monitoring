@@ -1,13 +1,12 @@
-
-Task: Research the Basics of Network Security Monitoring
+Task 1: Research the Basics of Network Security Monitoring
 
 Description: Learn about monitoring network traffic, detecting anomalies, and understanding packets, protocols, firewalls, and IDS (Intrusion Detection Systems).
 Outcome: A comprehensive understanding of how network monitoring tools work and the ability to recognize common security threats.
-Task: Packet Capture and Analysis Using Wireshark
+Task 2: Packet Capture and Analysis Using Wireshark
 
 Description: Capture HTTP, DNS, and ICMP packets using Wireshark. Learn to apply filters and analyze network traffic for anomalies.
 Outcome: Ability to effectively use Wireshark to capture and analyze network packets, identifying suspicious activities such as unusual IP addresses or ports.
-Task: Install and Configure Snort for Intrusion Detection
+Task 3: Install and Configure Snort for Intrusion Detection
 
 Description: Write basic Snort rules to detect common attacks like port scans and simulate a network intrusion.
 Outcome: Knowledge of configuring Snort for real-time intrusion detection and generating alerts for various attack scenarios.
