@@ -1,0 +1,13 @@
+Phase 2: Penetration Testing
+Task: Set Up a Penetration Testing Environment
+
+Description: Install Kali Linux, Metasploit, and Nmap. Configure a testing lab with intentionally vulnerable applications like DVWA.
+Outcome: A fully functional penetration testing lab environment for conducting various cybersecurity tasks.
+Task: Conduct Reconnaissance on a Target System
+
+Description: Use tools like Nmap and OSINT techniques to gather information about a target system’s domain, open ports, and services.
+Outcome: Ability to perform effective reconnaissance, collecting actionable information for penetration testing.
+Task: Exploit Vulnerabilities Using Metasploit
+
+Description: Identify vulnerabilities using scanning tools and exploit them using Metasploit. Document the process and results.
+Outcome: Practical experience in exploiting system vulnerabilities and documenting the exploitation steps for reporting purposes
