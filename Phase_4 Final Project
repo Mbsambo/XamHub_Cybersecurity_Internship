@@ -1,13 +1,11 @@
-Phase 4: Final Project
-Task: Conduct a Vulnerability Assessment on a Demo Website
-
+Task 1: Conduct a Vulnerability Assessment on a Demo Website
 Description: Choose a demo website (e.g., DVWA or bWAPP) and identify vulnerabilities using tools like OWASP ZAP. Focus on SQL Injection and XSS.
 Outcome: Proficiency in using web application vulnerability scanners and identifying critical vulnerabilities.
-Task: Perform Manual Testing for Vulnerabilities
 
+Task 2: Perform Manual Testing for Vulnerabilities
 Description: Test for SQL Injection and XSS vulnerabilities manually using Burp Suite. Document successful exploits with evidence.
 Outcome: Experience in manual testing for web vulnerabilities and preparing detailed exploit reports.
-Task: Develop Remediation Recommendations
 
+Task 3: Develop Remediation Recommendations
 Description: Create a remediation plan for fixing identified vulnerabilities, such as implementing input validation and prepared statements.
 Outcome: Ability to provide practical and effective recommendations to mitigate security risks.
