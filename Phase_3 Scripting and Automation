@@ -1,13 +1,11 @@
-Phase 3: Scripting and Automation
-Task: Write a Basic File Management Script
-
+Task 1: Write a Basic File Management Script
 Description: Create a Python script to manage files, such as creating directories and moving files. Test the script with sample data.
 Outcome: Understanding of file handling using Python and the ability to automate basic file management tasks.
-Task: Create a Data Processing Script
 
+Task 2: Create a Data Processing Script
 Description: Use Python and the pandas library to filter and sort CSV data. Output the results into a new file.
 Outcome: Skill in using Python for data analysis, particularly processing large datasets efficiently.
-Task: Write a System Monitoring Script
 
+Task 3: Write a System Monitoring Script
 Description: Develop a Python script to monitor system resources such as CPU and disk usage. Log the data at regular intervals.
 Outcome: Ability to automate system monitoring tasks and generate resource usage reports for performance analysis
